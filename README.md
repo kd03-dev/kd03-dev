@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kandarp Dave</h1>
-<h3 align="center">Data Structures & Algorithms | Android App Development</h3>
+<h3 align="center">I'm either coding or thiking about it! 😃</h3>
 
 - 🔭 I’m currently **into Android App Development.**
 
