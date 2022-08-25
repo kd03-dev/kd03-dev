@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **into Android App Development.**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and loving it.**
+- 🌱 I’m currently learning **Data Structures & Algorithms and loving it. Also, I'm learning JavaScript and NodeJS**
 
 - 📫 How to reach me **kandarp.dave.0312sv@gmail.com**
 
