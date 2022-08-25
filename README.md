@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kandarp Dave</h1>
 <h3 align="center">Learner! 👨‍💻</h3>
 
-- 🔭 I’m currently **into Android App Development.**
+- 🔭 I’m currently into **Android App Development.**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and loving it. Also, I'm learning JavaScript and NodeJS**
+- 🌱 I’m currently learning **Data Structures & Algorithms** and loving it. Also, I'm learning **JavaScript** and **NodeJS**.
 
 - 📫 How to reach me **kandarp.dave.0312sv@gmail.com**
 
