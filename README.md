@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kandarp-dave-489b331a4/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="https://www.linkedin.com/in/kandarp-dave-489b331a4/" height="30" width="40" /></a>  &  📫 <a href="mailto: kandarp.dave.0312sv@gmail.com"> <strong>kandarp.dave.0312sv@gmail.com</strong></a>
+<a href="https://www.linkedin.com/in/kandarp-dave-489b331a4/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="https://www.linkedin.com/in/kandarp-dave-489b331a4/" height="5" width="5" /></a>  &  📫 <a href="mailto: kandarp.dave.0312sv@gmail.com"> <strong>kandarp.dave.0312sv@gmail.com</strong></a>
 </p>
 
 <h3 align="left">Skills</h3>
