@@ -13,4 +13,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Languages: Java, C++, JavaScript, Python, HTML, CSS <br> Concepts: Data Structures and Algorithms, Object Oriented Programming, Database Management System <br> Tools and Technologies: AWS, Docker, Kubernetes, Android Studio, VSCode, Prometheus and Grafana, Jenkins </p>
+<p><strong>Languages:</strong> Java, C++, JavaScript, Python, HTML, CSS <br> <strong>Concepts:</strong> Data Structures and Algorithms, Object Oriented Programming, Database Management System <br> <strong>Tools and Technologies:</strong> AWS, Docker, Kubernetes, Android Studio, VSCode, Prometheus and Grafana, Jenkins </p>
