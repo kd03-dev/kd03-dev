@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kandarp Dave</h1>
 <h3 align="center">Learner! 👨‍💻</h3>
 
-- 🔭 I’m currently into **DevOps**.
+- 🔭 I’m currently into **DevOps**, working as a full-time DevOps Engineer.
 
-- 🌱 **Data Structures & Algorithms** is the thing I'm passionate about when it comes to coding. Also, I've learnt **Android App Development**.
+- 🌱 In the Coding part, I have solved over 500 coding problems on LeetCode + GeeksForGeeks. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +11,4 @@
 </p>
 
 <h3 align="left">Skills</h3>
-<p><strong>Languages:</strong> Java, C++, JavaScript, Python, HTML, CSS <br> <strong>Concepts:</strong> Data Structures and Algorithms, Object Oriented Programming, Database Management System <br> <strong>Tools and Technologies:</strong> AWS, Docker, Kubernetes, Android Studio, VSCode, Prometheus and Grafana, Jenkins </p>
+<p><strong>DevOps:</strong> AWS, Terraform, Docker, Kubernetes, Github Actions, Hashicorp's Vault, Jenkins, Prometheus and Grafana<br> <strong>Concepts:</strong> Data Structures and Algorithms, Object Oriented Programming, Database Management System <br> <strong>Development:</strong> Android App Development, Java, C++, JavaScript, Python, HTML, CSS  <br> <strong>Tools:</strong> VSCode, Github, Android Studio</p>
