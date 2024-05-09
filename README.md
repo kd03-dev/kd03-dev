@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently into **DevOps**, working as a full-time **DevOps Engineer**.
 
-- 🌱 In the Coding part, I have solved **over 500** coding problems on **LeetCode + GeeksForGeeks**. 
+- 🌱 In the Coding part, I have solved **over 600** coding problems on **LeetCode + GeeksForGeeks**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
