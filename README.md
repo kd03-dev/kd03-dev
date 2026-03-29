@@ -12,17 +12,17 @@ I'm also the person who writes the scripts nobody asks for, but everyone ends up
 
 ### What I work with
 
-**Cloud Platforms:** AWS, GCP
+🔹 **Cloud Platforms:** AWS, GCP
 
-**IaC:** Terraform, OpenTofu, Terragrunt, CloudFormation
+🔹 **IaC:** Terraform, OpenTofu, Terragrunt, CloudFormation
 
-**Containers:** Docker, AWS ECS, GCP Cloud Run, Kubernetes
+🔹 **Containers:** Docker, AWS ECS, GCP Cloud Run, Kubernetes
 
-**CI/CD:** GitHub Actions, Jenkins
+🔹 **CI/CD:** GitHub Actions, Jenkins
 
-**Scripting:** Bash, Python
+🔹 **Scripting:** Bash, Python
 
-**Tools:** Git, MontyCloud, Ansible, Terragrunt, nOps, Postman, DBeaver, pgAdmin
+🔹 **Tools:** Git, MontyCloud, Ansible, Terragrunt, nOps, Postman, DBeaver, pgAdmin
 
 Not limited to this stack — open to learning and working with new technologies.
 
