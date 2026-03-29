@@ -1,13 +1,40 @@
-<h1 align="center">Hi 👋, I'm Kandarp Dave</h1>
-<h3 align="center">DevOps | Cloud | Infra | Code 👨‍💻</h3>
+# Hey, I'm Kandarp 👋
 
-- 💻 **DevOps Engineer** with a passion for building scalable, secure, and automated cloud infrastructure. I enjoy solving complex problems, streamlining operations, and making systems more reliable through clean automation and thoughtful architecture.
+<h3 align="center">DevOps | Cloud | Infra | AI | Code 👨‍💻</h3>
 
-- 👨‍💼 With hands-on experience in AWS, Terraform, Docker, CI/CD, scripting, and monitoring, I focus on creating solutions that are efficient, cost-effective, and maintainable. Whether it’s optimizing deployments, managing multi-account environments, or automating repetitive tasks.
+I build, automate, and manage Cloud Infrastructure. My day-to-day involves writing Terraform, setting up CI/CD pipelines, containerizing applications, and finding ways to make systems more reliable while keeping cloud costs in check.
 
-- 🔭 Naturally curious and driven by problem-solving, always eager to deepen my expertise in DevOps and cloud technologies, with a genuine interest in exploring different tech stacks and broadening my understanding of the tech landscape. 
+I've led and delivered end-to-end projects across multiple domains within the **AWS Partner Network**—from designing secure infrastructure for a wide range of workloads and migrating production websites, to debugging microservices platforms and optimizing client environments to significantly reduce costs.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kandarp-dave-489b331a4/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="https://www.linkedin.com/in/kandarp-dave-489b331a4/" height="30" width="30" /></a>  &  📫 <a href="mailto: kandarp.dave.0312sv@gmail.com"> <strong>kandarp.dave.0312sv@gmail.com</strong></a>
-</p>
+I'm also the person who writes the scripts nobody asks for, but everyone ends up using.
+
+---
+
+### What I work with
+
+**Cloud Platforms:** AWS, GCP
+
+**IaC:** Terraform, OpenTofu, Terragrunt, CloudFormation
+
+**Containers:** Docker, AWS ECS, GCP Cloud Run, Kubernetes
+
+**CI/CD:** GitHub Actions, Jenkins
+
+**Scripting:** Bash, Python
+
+**Tools:** Git, MontyCloud, Ansible, Terragrunt, nOps, Postman, DBeaver, pgAdmin, SFTP/FTP platforms
+
+---
+
+### Certifications
+
+🏅 AWS Certified Solutions Architect – Associate
+🏅 HashiCorp Certified: Terraform Associate
+🏅 AWS Certified AI Practitioner
+
+---
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarp-dave-489b331a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandarp.dave.0312sv@gmail.com)
