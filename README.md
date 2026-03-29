@@ -14,7 +14,7 @@ I'm also the person who writes the scripts nobody asks for, but everyone ends up
 
 🔹 **Cloud Platforms:** AWS, GCP
 
-🔹 **IaC:** Terraform, OpenTofu, Terragrunt, CloudFormation
+🔹 **IaC:** Terraform, OpenTofu, CloudFormation
 
 🔹 **Containers:** Docker, AWS ECS, GCP Cloud Run, Kubernetes
 
