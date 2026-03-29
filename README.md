@@ -29,8 +29,10 @@ I'm also the person who writes the scripts nobody asks for, but everyone ends up
 ### Certifications
 
 🏅 AWS Certified Solutions Architect – Associate
-🏅 HashiCorp Certified: Terraform Associate
+
 🏅 AWS Certified AI Practitioner
+
+🏅 HashiCorp Certified: Terraform Associate
 
 ---
 
