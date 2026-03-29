@@ -40,5 +40,6 @@ Not limited to this stack — open to learning and working with new technologies
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarp-dave-489b331a4/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kandarp.dave.0312sv@gmail.com)
+🔗 **LinkedIn:** [Kandarp Dave](https://www.linkedin.com/in/kandarp-dave-489b331a4/)  
+✍️ **Medium:** [@kandarp_dave](https://medium.com/@kandarp_dave)  
+📧 **Email:** kandarp.dave.0312sv@gmail.com
