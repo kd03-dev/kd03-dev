@@ -22,7 +22,9 @@ I'm also the person who writes the scripts nobody asks for, but everyone ends up
 
 **Scripting:** Bash, Python
 
-**Tools:** Git, MontyCloud, Ansible, Terragrunt, nOps, Postman, DBeaver, pgAdmin, SFTP/FTP platforms
+**Tools:** Git, MontyCloud, Ansible, Terragrunt, nOps, Postman, DBeaver, pgAdmin
+
+Not limited to this stack — open to learning and working with new technologies.
 
 ---
 
